@@ -1,0 +1,6 @@
+﻿  Sphere.cpp
+c:\users\asus\source\repos\mesheditor_2.0\mesheditor_2.0\sphere.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\source\repos\mesheditor_2.0\mesheditor_2.0\sphere.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\source\repos\mesheditor_2.0\mesheditor_2.0\sphere.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\asus\source\repos\mesheditor_2.0\mesheditor_2.0\sphere.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MeshEditor_2.0.vcxproj -> C:\Users\asus\source\repos\MeshEditor_2.0\Debug\MeshEditor_2.0.exe

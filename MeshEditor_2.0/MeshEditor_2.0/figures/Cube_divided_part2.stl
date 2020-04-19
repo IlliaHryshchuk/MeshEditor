@@ -1,0 +1,142 @@
+solid cube_final_test
+facet normal 0 0 0
+outer loop
+vertex 0 40 0
+vertex 40 40 0
+vertex 40 0 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 40 40 40
+vertex 40 40 0
+vertex 0 40 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 0 40 0
+vertex 0 40 40
+vertex 40 40 40
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 40 40 40
+vertex 40 0 0
+vertex 40 40 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 40 0 0
+vertex 40 40 40
+vertex 40 0 40
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 0 40 40
+vertex 40 0 40
+vertex 40 40 40
+endloop
+endfacet
+facet normal -nan(ind) -nan(ind) -nan(ind)
+outer loop
+vertex 40 0 0
+vertex 22.103 0 0
+vertex 0 12.9326 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 40 0 0
+vertex 0 12.9326 0
+vertex 0 40 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22.103 0 0
+vertex 40 0 40
+vertex 22.7937 0 22.7937
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 40 0 0
+vertex 40 0 40
+vertex 22.103 0 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 23.3152 0 40
+vertex 22.7938 0 22.7938
+vertex 40 0 40
+endloop
+endfacet
+facet normal -nan(ind) -nan(ind) -nan(ind)
+outer loop
+vertex 0 13.1661 13.1661
+vertex 0 40 40
+vertex 0 12.9326 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0 12.9326 0
+vertex 0 40 40
+vertex 0 40 0
+endloop
+endfacet
+facet normal -nan(ind) -nan(ind) -nan(ind)
+outer loop
+vertex 0 40 40
+vertex 0 13.1661 13.1661
+vertex 0 13.6418 40
+endloop
+endfacet
+facet normal -0.771633 -0.449768 0.449768
+outer loop
+vertex 23.3152 0 40
+vertex 0 40 40
+vertex 0 13.6418 40
+endloop
+endfacet
+facet normal -0.57735 -0.57735 0.57735
+outer loop
+vertex 40 0 40
+vertex 0 40 40
+vertex 23.3152 0 40
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 0 13.1661 13.1661
+vertex 0 12.9326 0
+vertex 22.103 0 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 0 13.6418 40
+vertex 0 13.1661 13.1661
+vertex 22.103 0 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22.103 0 0
+vertex 22.7937 0 22.7937
+vertex 0 13.6418 40
+endloop
+endfacet
+facet normal 0.307183 0.900709 -0.307183
+outer loop
+vertex 0 13.6418 40
+vertex 22.7937 0 22.7937
+vertex 23.3152 0 40
+endloop
+endfacet
+endsolid cube_final_test
